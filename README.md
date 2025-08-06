@@ -1,5 +1,5 @@
 ## Thyago Almeida Paulo
-Olá! Eu sou o Thyago Almeida Paulo, estudante de Análise e Desenvolvimento de Sistemas! 💻
+Olá! Meu nome é Thyago, sou estudante de Análise e Desenvolvimento de Sistemas! 💻
 <br>
 
 <div>
