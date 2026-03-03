@@ -4,8 +4,9 @@ Olá! Meu nome é Thyago, sou estudante de Análise e Desenvolvimento de Sistema
 
 <div>
   <a href="https://github.com/thyzxt">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyzxt&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <img loading="lazy" height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thyzxt&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ### Ferramentas e Tecnologias
